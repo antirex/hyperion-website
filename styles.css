@@ -91,7 +91,7 @@ footer {
   }
   .align-right {
     justify-content: center;
-    margin-top: 1.5rem;
+    margin-top: 0rem;
     text-align: center;
   }
   .footer-text {
@@ -109,5 +109,8 @@ footer {
   }
   .btn-box {
     font-size: 0.8rem;
+  }
+  .footer-text {
+    margin-top: 2.3rem;
   }
 }
